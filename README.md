@@ -1,1 +1,1 @@
-This repository is where CatExec related stuff is at.
+This repository is where Catium related stuff is at.
