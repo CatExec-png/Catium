@@ -1,1 +1,1 @@
-This repository is where the CatExec installer pulls from.
+This repository is where CatExec related stuff is at.
